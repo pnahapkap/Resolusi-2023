@@ -1,1 +1,3 @@
 First step to Github
+
+- know about commit, branch, etc
